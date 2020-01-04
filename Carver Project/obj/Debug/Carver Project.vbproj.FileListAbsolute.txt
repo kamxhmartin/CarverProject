@@ -1,0 +1,20 @@
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver_Project.frmMain.resources
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver_Project.Resources.resources
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver Project.vbproj.GenerateResource.Cache
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\bin\Debug\Carver Project.exe
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\bin\Debug\Carver Project.pdb
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\bin\Debug\Carver Project.xml
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver Project.exe
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver Project.xml
+C:\Users\Kate-Alice\Documents\Senior Year GVSU\CIS 160 Visual Basic\Carver Solution-Parallel\Carver Project\obj\Debug\Carver Project.pdb
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver Project.exe
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver Project.xml
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver Project.pdb
+G:\Carver Solution-Parallel Kal Martin\Carver Project\bin\Debug\Carver Project.exe
+G:\Carver Solution-Parallel Kal Martin\Carver Project\bin\Debug\Carver Project.pdb
+G:\Carver Solution-Parallel Kal Martin\Carver Project\bin\Debug\Carver Project.xml
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\ResolveAssemblyReference.cache
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver_Project.frmMain.resources
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver_Project.Resources.resources
+G:\Carver Solution-Parallel Kal Martin\Carver Project\obj\Debug\Carver Project.vbproj.GenerateResource.Cache
